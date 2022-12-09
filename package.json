@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/tgroselyn/sz-ch#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "http": "0.0.0",
     "pg": "^7.11.0",
     "socket.io": "^2.2.0"
